@@ -6,7 +6,7 @@
 在线观看地址
 
 
-https://landluck.github.io/
+https://landluck.github.io/ 
 
 
 > v1.1.0 基于之前 v 1.0.0 的版本做了一些优化,更简单易懂
@@ -17,10 +17,10 @@ https://landluck.github.io/
 
 
 # 克隆到本地
-git clone https://github.com/landluck/lucky_wheel.git
+git clone https://github.com/zliangwen/vueLuckly.git
 
 # 进入文件夹
-cd lucky_wheel
+cd vueLuckly
 
 # 安装依赖
 npm install
